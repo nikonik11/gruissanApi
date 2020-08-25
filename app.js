@@ -1,1 +1,0 @@
-console.log('tu est un bg');
